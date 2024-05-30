@@ -35,7 +35,7 @@ export function layout() {
       <header className="px-4 lg:px-6 h-14 flex items-center">
         <Link className="flex items-center justify-center" href="#">
           <PaletteIcon className="h-6 w-6" />
-          <span className="sr-only">Jane Doe's Portfolio</span>
+          <span className="sr-only">경유찬의 포트폴리오</span>
         </Link>
         <nav className="ml-auto flex gap-4 sm:gap-6">
           <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
